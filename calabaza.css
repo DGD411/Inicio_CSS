@@ -1,0 +1,20 @@
+html {
+    width: 60em;
+    margin: 0 auto;
+}
+.especial {
+	color: red;
+	font-size: 16px;
+	font-weight: 14px;
+}
+ol.especial {
+	color: blue;
+	font-size: 16px;
+	font-weight: 14px;
+	background-color: cyan;
+	list-style-type: square;
+}
+h2,hr {
+	color: green;
+	background-color:white;
+}
